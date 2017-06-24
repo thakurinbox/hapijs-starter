@@ -7,7 +7,7 @@
 let mysql = {
     host     : 'localhost',
     user     : 'root',
-    password : 'root@3232',
+    password : 'root',
     database : 'myapp'
 };
 
