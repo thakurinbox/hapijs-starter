@@ -1,0 +1,610 @@
+{"level":"info","message":"Server running at: http://Nareshs-MacBook-Pro.local:3000","timestamp":"12:59:03 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:59:03 PM"}
+{"level":"info","message":"MongoDB Connected!","timestamp":"12:59:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:00:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:01:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:02:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:03:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:04:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:05:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:06:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:07:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:08:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:09:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:10:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:11:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:12:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:15:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:16:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:17:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:18:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:19:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:20:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:21:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:22:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:29:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:30:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:31:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:32:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:33:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:34:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:35:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:36:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:37:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:38:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:39:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:40:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:41:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:42:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:43:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:44:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:45:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:46:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:47:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:48:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:49:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:50:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:51:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:52:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:53:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:54:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:55:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:56:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:57:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:58:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:59:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:00:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:01:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:02:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:03:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:04:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:05:48 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:10 PM"}
+{"level":"info","message":"2:06:10 PM 127.0.0.1: GET /","timestamp":"2:06:10 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:10 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:10 PM"}
+{"level":"info","message":"127.0.0.1: GET / --> 200","timestamp":"2:06:10 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:10 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:10 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:10 PM"}
+{"level":"info","message":"2:06:10 PM 127.0.0.1: GET /favicon.ico","timestamp":"2:06:10 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:10 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:10 PM"}
+{"level":"info","message":"127.0.0.1: GET /favicon.ico --> 404","timestamp":"2:06:10 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:10 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:10 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:35 PM"}
+{"level":"info","message":"2:06:35 PM 127.0.0.1: GET /documentation","timestamp":"2:06:35 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:35 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:35 PM"}
+{"level":"info","message":"127.0.0.1: GET /documentation --> 200","timestamp":"2:06:35 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:35 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:35 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:35 PM"}
+{"level":"info","message":"2:06:35 PM 127.0.0.1: GET /swaggerui/css/typography.css","timestamp":"2:06:35 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:35 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:35 PM"}
+{"level":"info","message":"2:06:35 PM 127.0.0.1: GET /swaggerui/css/reset.css","timestamp":"2:06:35 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:35 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:35 PM"}
+{"level":"info","message":"2:06:35 PM 127.0.0.1: GET /swaggerui/css/screen.css","timestamp":"2:06:35 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:35 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:35 PM"}
+{"level":"info","message":"2:06:35 PM 127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js","timestamp":"2:06:35 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:35 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/typography.css --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/reset.css --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/screen.css --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/js-yaml.min.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/lodash.min.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/backbone-min.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/swagger-ui.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/marked.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lib/swagger-oauth.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/extend.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lang/translator.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/marked.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/lang/en.js","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/extend.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lang/translator.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lang/en.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/css/print.css","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/print.css --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/swagger-ui.js --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/images/logo_small.png","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/logo_small.png --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swagger.json","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swagger.json --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/images/favicon-16x16.png","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:36 PM"}
+{"level":"info","message":"2:06:36 PM 127.0.0.1: GET /swaggerui/images/favicon-32x32.png","timestamp":"2:06:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 200","timestamp":"2:06:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:44 PM"}
+{"level":"info","message":"2:06:44 PM 127.0.0.1: GET /swaggerui/images/throbber.gif","timestamp":"2:06:44 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:44 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:44 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/throbber.gif --> 200","timestamp":"2:06:44 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:44 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:44 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:06:44 PM"}
+{"level":"info","message":"2:06:44 PM 127.0.0.1: GET /swaggerui/images/favicon-16x16.png","timestamp":"2:06:44 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:06:44 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:06:44 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304","timestamp":"2:06:44 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:06:44 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:06:44 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:06:48 PM"}
+{"level":"info","message":"Server running at: http://Nareshs-MacBook-Pro.local:3000","timestamp":"2:07:30 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2:07:30 PM"}
+{"level":"info","message":"MongoDB Connected!","timestamp":"2:07:30 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /documentation","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /documentation --> 200","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/css/typography.css","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/css/reset.css","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/css/screen.css","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/typography.css --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/reset.css --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/screen.css --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/js-yaml.min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/lodash.min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/backbone-min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/swagger-ui.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/marked.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lib/swagger-oauth.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/extend.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/marked.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/swagger-ui.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/extend.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lang/translator.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/lang/en.js","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lang/translator.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/lang/en.js --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:33 PM"}
+{"level":"info","message":"2:07:33 PM 127.0.0.1: GET /swaggerui/css/print.css","timestamp":"2:07:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:33 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/css/print.css --> 304","timestamp":"2:07:33 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:34 PM"}
+{"level":"info","message":"2:07:34 PM 127.0.0.1: GET /swaggerui/images/logo_small.png","timestamp":"2:07:34 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:34 PM"}
+{"level":"info","message":"2:07:34 PM 127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf","timestamp":"2:07:34 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:34 PM"}
+{"level":"info","message":"2:07:34 PM 127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf","timestamp":"2:07:34 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:34 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/logo_small.png --> 304","timestamp":"2:07:34 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:34 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:34 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304","timestamp":"2:07:34 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:34 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:34 PM"}
+{"level":"info","message":"2:07:34 PM 127.0.0.1: GET /swagger.json","timestamp":"2:07:34 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:34 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304","timestamp":"2:07:34 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:34 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:34 PM"}
+{"level":"info","message":"127.0.0.1: GET /swagger.json --> 200","timestamp":"2:07:34 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:34 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:34 PM"}
+{"level":"info","message":"2:07:34 PM 127.0.0.1: GET /swaggerui/images/favicon-16x16.png","timestamp":"2:07:34 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:34 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200","timestamp":"2:07:34 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:34 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:34 PM"}
+{"level":"info","message":"2:07:34 PM 127.0.0.1: GET /swaggerui/images/favicon-32x32.png","timestamp":"2:07:34 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:34 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 304","timestamp":"2:07:34 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:34 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:34 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:36 PM"}
+{"level":"info","message":"2:07:36 PM 127.0.0.1: GET /swaggerui/images/throbber.gif","timestamp":"2:07:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/throbber.gif --> 304","timestamp":"2:07:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:07:36 PM"}
+{"level":"info","message":"2:07:36 PM 127.0.0.1: GET /swaggerui/images/favicon-16x16.png","timestamp":"2:07:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:07:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:07:36 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304","timestamp":"2:07:36 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:07:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:07:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:08:13 PM"}
+{"level":"info","message":"2:08:13 PM 127.0.0.1: POST /api/user/userRegistration","timestamp":"2:08:13 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:08:13 PM"}
+{"level":"info","message":"Server running at: http://Nareshs-MacBook-Pro.local:3000","timestamp":"2:09:03 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2:09:03 PM"}
+{"level":"info","message":"MongoDB Connected!","timestamp":"2:09:03 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:09:06 PM"}
+{"level":"info","message":"2:09:06 PM 127.0.0.1: POST /api/user/userRegistration","timestamp":"2:09:06 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:09:06 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:09:08 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userRegistration --> 400","timestamp":"2:09:08 PM"}
+{"name":"Naresh Thakur","photoUrl":"dssa","country":"India","countryCode":"+91","phoneNumber":"9914714595","password":"$2a$10$OMQUBfuTaDmTLuiTZiwKLuLPdiJYcR1lrKBoDCLZ6iSnaMk0uiZD2","email":"","level":"info","message":"Request payload:","timestamp":"2:09:08 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:09:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:10:03 PM"}
+{"level":"info","message":"Server running at: http://Nareshs-MacBook-Pro.local:3000","timestamp":"2:10:13 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2:10:13 PM"}
+{"level":"info","message":"MongoDB Connected!","timestamp":"2:10:13 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:10:46 PM"}
+{"level":"info","message":"2:10:46 PM 127.0.0.1: POST /api/user/userRegistration","timestamp":"2:10:46 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:10:46 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:10:48 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userRegistration --> 200","timestamp":"2:10:48 PM"}
+{"name":"Naresh Thakur","photoUrl":"dssa","country":"India","countryCode":"+91","phoneNumber":"9914714595","password":"$2a$10$MR7KYKpEJzw1uEjTmLR.q.e5CKAuUEyDxhM0cggwWnUfRhrYq6w8i","email":"","level":"info","message":"Request payload:","timestamp":"2:10:48 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:10:48 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:11:13 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:11:19 PM"}
+{"level":"info","message":"2:11:19 PM 127.0.0.1: GET /swaggerui/images/favicon-16x16.png","timestamp":"2:11:19 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:11:19 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:11:19 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304","timestamp":"2:11:19 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:11:19 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:11:19 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:11:36 PM"}
+{"level":"info","message":"2:11:36 PM 127.0.0.1: POST /api/user/userLogin","timestamp":"2:11:36 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:11:36 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:11:36 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userLogin --> 400","timestamp":"2:11:36 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","password":"naresht","level":"info","message":"Request payload:","timestamp":"2:11:36 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:11:36 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:11:41 PM"}
+{"level":"info","message":"2:11:41 PM 127.0.0.1: POST /api/user/userLogin","timestamp":"2:11:41 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:11:41 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:11:41 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userLogin --> 406","timestamp":"2:11:41 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","password":"naresh","level":"info","message":"Request payload:","timestamp":"2:11:41 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:11:41 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:11:44 PM"}
+{"level":"info","message":"2:11:44 PM 127.0.0.1: POST /api/user/userLogin","timestamp":"2:11:44 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:11:44 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:11:45 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userLogin --> 406","timestamp":"2:11:45 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","password":"naresh","level":"info","message":"Request payload:","timestamp":"2:11:45 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:11:45 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:11:51 PM"}
+{"level":"info","message":"2:11:51 PM 127.0.0.1: POST /api/user/userLogin","timestamp":"2:11:51 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:11:51 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:11:51 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userLogin --> 400","timestamp":"2:11:51 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","password":"naresht","level":"info","message":"Request payload:","timestamp":"2:11:51 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:11:51 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:11:58 PM"}
+{"level":"info","message":"2:11:58 PM 127.0.0.1: POST /api/user/userLogin","timestamp":"2:11:58 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:11:58 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:11:58 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userLogin --> 406","timestamp":"2:11:58 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","password":"naresh","level":"info","message":"Request payload:","timestamp":"2:11:58 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:11:58 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:12:13 PM"}
+{"level":"info","message":"Server running at: http://Nareshs-MacBook-Pro.local:3000","timestamp":"2:12:33 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2:12:33 PM"}
+{"level":"info","message":"MongoDB Connected!","timestamp":"2:12:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:12:39 PM"}
+{"level":"info","message":"2:12:39 PM 127.0.0.1: POST /api/user/userLogin","timestamp":"2:12:39 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:12:39 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:12:40 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userLogin --> 406","timestamp":"2:12:40 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","password":"naresh","level":"info","message":"Request payload:","timestamp":"2:12:40 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:12:40 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:12:57 PM"}
+{"level":"info","message":"2:12:57 PM 127.0.0.1: GET /swaggerui/images/favicon-16x16.png","timestamp":"2:12:57 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:12:57 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:12:57 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304","timestamp":"2:12:57 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:12:57 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:12:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:13:33 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:14:33 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:15:33 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:16:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:16:33 PM"}
+{"level":"info","message":"2:16:33 PM 127.0.0.1: POST /api/user/verifyOTP","timestamp":"2:16:33 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:16:33 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:16:33 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/verifyOTP --> 400","timestamp":"2:16:33 PM"}
+{"countryCode":"+91","phoneNumber":"9914714593","otp":"4543","level":"info","message":"Request payload:","timestamp":"2:16:33 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:16:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:17:09 PM"}
+{"level":"info","message":"2:17:09 PM 127.0.0.1: POST /api/user/verifyOTP","timestamp":"2:17:09 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:17:09 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:17:09 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/verifyOTP --> 200","timestamp":"2:17:09 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","otp":"2146","level":"info","message":"Request payload:","timestamp":"2:17:09 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:17:09 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:17:17 PM"}
+{"level":"info","message":"2:17:17 PM 127.0.0.1: POST /api/user/userLogin","timestamp":"2:17:17 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:17:17 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:17:17 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/userLogin --> 200","timestamp":"2:17:17 PM"}
+{"countryCode":"+91","phoneNumber":"9914714595","password":"naresh","level":"info","message":"Request payload:","timestamp":"2:17:17 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:17:17 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:17:33 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:17:53 PM"}
+{"level":"info","message":"2:17:53 PM 127.0.0.1: GET /swaggerui/images/favicon-16x16.png","timestamp":"2:17:53 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:17:53 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:17:53 PM"}
+{"level":"info","message":"127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304","timestamp":"2:17:53 PM"}
+{"level":"info","message":"Request payload:","timestamp":"2:17:53 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:17:53 PM"}
+{"level":"info","message":"********Incoming Request********","timestamp":"2:18:09 PM"}
+{"level":"info","message":"2:18:09 PM 127.0.0.1: POST /api/user/updateBasic","timestamp":"2:18:09 PM"}
+{"level":"info","message":"***********Requset End*********\n","timestamp":"2:18:09 PM"}
+{"level":"info","message":"******Sending Response*******","timestamp":"2:18:09 PM"}
+{"level":"info","message":"127.0.0.1: POST /api/user/updateBasic --> 200","timestamp":"2:18:09 PM"}
+{"name":"Thakur","email":"thakur.cool.him@gmail.com","level":"info","message":"Request payload:","timestamp":"2:18:09 PM"}
+{"level":"info","message":"*******End of Response*******\n","timestamp":"2:18:09 PM"}
